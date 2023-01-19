@@ -1,0 +1,38 @@
+.li-container {
+  display: flex;
+  padding: 10px;
+  font-family: 'roboto';
+  align-items: center;
+  justify-content: space-between;
+}
+.li-content {
+  display: flex;
+  align-items: center;
+}
+.title {
+  color: #475569;
+  font-size: 20px;
+  font-weight: bold;
+  margin-left: 10px;
+}
+.img {
+  width: 20px;
+  height: 20px;
+  margin-left: 20px;
+  margin-right: 20px;
+}
+.url {
+  color: #64748b;
+  font-size: 20px;
+  font-weight: 400;
+  margin-left: 10px;
+}
+.del-img {
+  width: 23px;
+  height: 23px;
+}
+.del-btn {
+  background: transparent;
+  border: none;
+  cursor: pointer;
+}
